@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__get-library-docs"
+    ],
+    "deny": []
+  },
+  "enabledMcpjsonServers": [
+    "python-sdk",
+    "docker",
+    "jupyter",
+    "postgresql",
+    "opik",
+    "memory-bank",
+    "sequential-thinking",
+    "brave-search",
+    "google-maps",
+    "deep-graph"
+  ]
+}
